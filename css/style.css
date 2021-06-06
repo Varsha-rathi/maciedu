@@ -1,0 +1,97 @@
+body{
+    background-image: url('../images/background2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%
+            }
+        #table1 {
+        	font-family:Cooper Black;
+        	background-color: #ffffff;
+        	
+        }
+        #table1 th {
+        	text-align:center;
+        	background-color:#8D59CF;
+        	color: #98E80E
+        }
+        header{
+            color: red;
+        }
+        #LogoTittle {
+            font-family: Segoe Script;
+            font-size: 30px;
+            text-decoration: none;
+
+        }
+        #Menu1{
+            font-family: Forte;
+            font-size: 25px;
+            color: black 
+        }
+        #Menu2 {
+            font-family: Forte;
+            font-size: 25px;
+            color: black
+        }
+        #Menu3 {
+            font-family: Forte;
+            font-size: 25px;
+            color: black
+        }
+        #Menu4 {
+            font-family: Forte;
+            font-size: 25px;
+            color: black 
+        }
+        .carousel-inner img {
+            max-height: 88vh;
+            width: 100%;
+        }
+    .card img{ 
+        max-height: 350px;
+    }
+#Science{
+    color: blue;
+    font-family: Elephant;
+}
+#Maths{
+    color: blue;
+    font-family: Elephant;
+    }
+    #Slide2{
+        color: black;
+    }
+    #Slide3{
+        color: purple;
+    }
+    #Slide4{
+        color: black;
+    }
+#Info{
+    font-family: Lucida Handwriting;
+    font-size: 40px;
+    color: black;
+}
+#Scienceinfo{
+    font-size: 20px;
+    color: black;
+    font-family: Broadway;
+}
+.science-img{
+    background-image: url('../images/Science10.jpg');
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height : 30vh;
+}
+.contact-img{
+    background-image: url('../images/contact.png');
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height : 30vh;
+}
+
+
+
+    
